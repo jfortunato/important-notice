@@ -42,6 +42,9 @@ function importantNotice() {
     text-align: center;
     margin-bottom: 20px;
 }
+.important-notice__body {
+    line-height: 1.5rem;
+}
 .important-notice__close {
     position: absolute;
     top: 0;

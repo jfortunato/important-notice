@@ -66,7 +66,7 @@ Name          | Description
 ----          | -----------
 `heading`     | The heading of the notice.
 `always-show` | If omitted, then the notice will not be shown again during the current browsing session.
-`showstopper` | There are 2 types of notices:<br><br>The "showstopper" will display what is commonly referred to as a "modal" or "dialog".<br>The other type will simple display a notice in the corner of the page.
+`showstopper` | There are 2 types of notices:<br><br>The "showstopper" will display what is commonly referred to as a "modal" or "dialog".<br>The other type will simply display a notice in the corner of the page.
 `link-label`  | Optional label to use for an external link button.
 `link-href`   | Optional href to use for an external link button.
 `link-color`  | Optional color to use for an external link button. Defaults to a gray background.
